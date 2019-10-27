@@ -18,4 +18,4 @@ VibrationHelper.VibrateWithAmplitude(milliseconds, amplitude);
 ```
 > amplitude must be a value between 1 and 255
 
-You can use ``` VibrationHelper.minAmplitude ``` and ``` VibrationHelper.maxAmplitude``` for getting min and max amplitude.
+You can use ``` VibrationHelper.minAmplitude ``` (=1)and ``` VibrationHelper.maxAmplitude```(=255) for getting min and max amplitude.
