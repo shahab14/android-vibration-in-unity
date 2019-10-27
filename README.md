@@ -3,6 +3,8 @@
 > ## It doesn't support IOS devices.
 > ## Custom Vibration Amplitudes support devices which has this feature.
 
+##### Download package from [release page].(https://github.com/shahab14/android-vibration-in-unity/releases)
+
 You can use these functions to make vibrations in your game:
 
 ```c#
